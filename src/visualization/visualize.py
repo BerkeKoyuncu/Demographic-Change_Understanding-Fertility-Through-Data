@@ -1,2 +1,2 @@
 def plot():
-    print('Plot something.')
+    print("Plot something.")
