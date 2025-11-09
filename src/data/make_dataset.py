@@ -1,7 +1,9 @@
 import pandas as pd
-from src.config import RAW_DIR, PROCESSED_DIR
 
-def main():
+from src.config import PROCESSED_DIR, RAW_DIR
+
+
+def main() -> None:
     RAW_DIR.mkdir(parents=True, exist_ok=True)
     PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -12,9 +14,10 @@ def main():
         if out.exists():
             out.unlink()
         df.to_parquet(out)
-        print("Processed saved:", out)
+        print(f"Processed saved: {out}")
     else:
         print(f"Missing: {raw_csv}")
+
 
 if __name__ == "__main__":
     main()
