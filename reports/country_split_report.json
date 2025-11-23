@@ -1,0 +1,8 @@
+{
+    "n_countries_total": 211,
+    "n_countries_only_in_train": 0,
+    "n_countries_only_in_test": 0,
+    "n_countries_in_both": 211,
+    "countries_only_in_train": [],
+    "countries_only_in_test": []
+}

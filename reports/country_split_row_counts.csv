@@ -1,0 +1,212 @@
+Country,train_rows,test_rows
+Afghanistan,47,12
+Albania,47,12
+Algeria,47,12
+Andorra,47,12
+Angola,47,12
+Antigua and Barbuda,47,12
+Argentina,47,12
+Armenia,47,12
+Aruba,47,12
+Australia,47,12
+Austria,47,12
+Azerbaijan,47,12
+Bahamas,47,12
+Bahrain,47,12
+Bangladesh,47,12
+Barbados,47,12
+Belarus,47,12
+Belgium,47,12
+Belize,47,12
+Benin,47,12
+Bermuda,47,12
+Bhutan,47,12
+Bolivia (Plurinational State of),47,12
+Bosnia and Herzegovina,47,12
+Botswana,47,12
+Brazil,47,12
+British Virgin Islands,47,12
+Brunei,47,12
+Bulgaria,47,12
+Burkina Faso,47,12
+Burundi,47,12
+Cabo Verde,47,12
+Cambodia,47,12
+Cameroon,47,12
+Canada,47,12
+Cayman Islands,47,12
+Chad,47,12
+Channel Islands,47,12
+Chile,47,12
+China,47,12
+Colombia,47,12
+Comoros,47,12
+Congo,47,12
+Congo (Democratic Republic of the),47,12
+Costa Rica,47,12
+Croatia,47,12
+Cuba,47,12
+Curaçao,47,12
+Cyprus,47,12
+Czechia,47,12
+Côte d’Ivoire,47,12
+Denmark,47,12
+Djibouti,47,12
+Dominica,47,12
+Dominican Republic,47,12
+Ecuador,47,12
+Egypt,47,12
+El Salvador,47,12
+Equatorial Guinea,47,12
+Eritrea,47,12
+Estonia,47,12
+Eswatini,47,12
+Ethiopia,47,12
+Faroe Islands,47,12
+Fiji,47,12
+Finland,47,12
+France,47,12
+French Polynesia,47,12
+Gabon,47,12
+Gambia,47,12
+Georgia,47,12
+Germany,47,12
+Ghana,47,12
+Gibraltar,47,12
+Greece,47,12
+Greenland,47,12
+Grenada,47,12
+Guam,47,12
+Guatemala,47,12
+Guinea,47,12
+Guinea-Bissau,47,12
+Guyana,47,12
+Haiti,47,12
+Honduras,47,12
+"Hong Kong SAR, China",47,12
+Hungary,47,12
+Iceland,47,12
+India,47,12
+Indonesia,47,12
+Iran,47,12
+Iraq,47,12
+Ireland,47,12
+Isle of Man,47,12
+Israel,47,12
+Italy,47,12
+Jamaica,47,12
+Japan,47,12
+Jordan,47,12
+Kazakhstan,47,12
+Kenya,47,12
+Kiribati,47,12
+"Korea, Democratic People’s Republic of",47,12
+"Korea, Republic of",47,12
+Kuwait,47,12
+Kyrgyzstan,47,12
+Laos,47,12
+Latvia,47,12
+Lebanon,47,12
+Lesotho,47,12
+Liberia,47,12
+Libya,47,12
+Liechtenstein,47,12
+Lithuania,47,12
+Luxembourg,47,12
+"Macao SAR, China",47,12
+Madagascar,47,12
+Malawi,47,12
+Malaysia,47,12
+Maldives,47,12
+Mali,47,12
+Malta,47,12
+Marshall Islands,47,12
+Mauritania,47,12
+Mauritius,47,12
+Mexico,47,12
+"Micronesia, Federated States of",47,12
+Moldova,47,12
+Monaco,47,12
+Mongolia,47,12
+Montenegro,47,12
+Morocco,47,12
+Mozambique,47,12
+Myanmar,47,12
+Namibia,47,12
+Nauru,47,12
+Nepal,47,12
+Netherlands,47,12
+New Caledonia,47,12
+New Zealand,47,12
+Nicaragua,47,12
+Niger,47,12
+Nigeria,47,12
+North Macedonia,47,12
+Northern Mariana Islands,47,12
+Norway,47,12
+Oman,47,12
+Pakistan,47,12
+Palau,47,12
+Palestine,47,12
+Panama,47,12
+Papua New Guinea,47,12
+Paraguay,47,12
+Peru,47,12
+Philippines,47,12
+Poland,47,12
+Portugal,47,12
+Puerto Rico,47,12
+Qatar,47,12
+Romania,47,12
+Russia,47,12
+Rwanda,47,12
+Samoa,47,12
+San Marino,47,12
+Sao Tome and Principe,47,12
+Saudi Arabia,47,12
+Senegal,47,12
+Serbia,47,12
+Seychelles,47,12
+Sierra Leone,47,12
+Singapore,47,12
+Sint Maarten (Dutch part),47,12
+Slovakia,47,12
+Slovenia,47,12
+Solomon Islands,47,12
+Somalia,47,12
+South Sudan,47,12
+Spain,47,12
+Sri Lanka,47,12
+St. Kitts and Nevis,47,12
+St. Lucia,47,12
+St. Vincent and the Grenadines,47,12
+Sudan,47,12
+Suriname,47,12
+Sweden,47,12
+Switzerland,47,12
+Syria,47,12
+Tajikistan,47,12
+"Tanzania, United Republic of",47,12
+Thailand,47,12
+Timor-Leste,47,12
+Togo,47,12
+Tonga,47,12
+Trinidad and Tobago,47,12
+Tunisia,47,12
+Turkey,47,12
+Turkmenistan,47,12
+Turks and Caicos Islands,47,12
+Tuvalu,47,12
+Uganda,47,12
+Ukraine,47,12
+United Arab Emirates,47,12
+United Kingdom,47,12
+United States Virgin Islands,47,12
+Uruguay,47,12
+Uzbekistan,47,12
+Vanuatu,47,12
+Venezuela (Bolivarian Republic of),47,12
+Vietnam,47,12
+Yemen,47,12
+Zambia,47,12
+Zimbabwe,47,12
