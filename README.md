@@ -21,6 +21,6 @@ It focuses on the relationship between **women’s labour force participation, m
 4. Visualize insights through clear and informative plots.
 
 ## 👥 Team Members
-- **Berke Koyuncu** (23118080012)
-- **Büşra Arslan** (22118080007)
-- **Elif Nisa Okur** (22118080077)
+- **Berke Koyuncu** 
+- **Büşra Arslan** 
+- **Elif Nisa Okur** 
