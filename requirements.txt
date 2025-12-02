@@ -1,6 +1,11 @@
+pathlib
 pandas
 numpy
 matplotlib
 seaborn
 scikit-learn
 prophet
+plotly
+cmdstanpy
+jupyter
+ipykernel

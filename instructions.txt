@@ -1,0 +1,3 @@
+Jupyter notebooks within the notebooks folder should be run step by step according to their serial number (01-11).
+
+The cell order of the first notebook (01) is from bottom to top. Subsequent notebooks (02-11) should be run from top to bottom.
