@@ -20,14 +20,7 @@ It focuses on the relationship between **women’s labour force participation, m
 3. Train predictive models to forecast future fertility trends.
 4. Visualize insights through clear and informative plots.
 
-<<<<<<< Updated upstream
-## 👥 Team Members
-- **Berke Koyuncu** 
-- **Büşra Arslan** 
-- **Elif Nisa Okur** 
-=======
 ## Team Members
 - **Berke Koyuncu**
 - **Büşra Arslan**
 - **Elif Nisa Okur**
->>>>>>> Stashed changes
